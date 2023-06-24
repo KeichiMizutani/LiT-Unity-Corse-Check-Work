@@ -20,7 +20,7 @@ Life is Tech! School にて、Unityコースのチェックワークとして用
   - ゲームオブジェクトを消すコードは`Destroy( このかっこは中に消したいゲームオブジェクト )`
 
 ### 1-2: コンソールに獲得したアイテムの数を表示しよう
-<img width="568" alt="スクリーンショット 2023-06-24 16 01 33" src="https://github.com/KeichiMizutani/LiT-Unity-Corse-Check-Work/assets/32954048/adafadc5-c131-4693-b38b-fb092567d7f2">
+<img width="500" alt="スクリーンショット 2023-06-24 16 01 33" src="https://github.com/KeichiMizutani/LiT-Unity-Corse-Check-Work/assets/32954048/adafadc5-c131-4693-b38b-fb092567d7f2">
 </br>
 
 - ヒント
@@ -37,13 +37,13 @@ Life is Tech! School にて、Unityコースのチェックワークとして用
   - ジャンプの回数を保存する変数を作る
 
 ### 3-1: UIでアイテムの獲得数を表示しよう
-<img width="568" alt="スクリーンショット 2023-06-24 16 32 58" src="https://github.com/KeichiMizutani/LiT-Unity-Corse-Check-Work/assets/32954048/8deeeb38-3130-4aba-9256-913dabd44a10">
+<img width="500" alt="スクリーンショット 2023-06-24 16 32 58" src="https://github.com/KeichiMizutani/LiT-Unity-Corse-Check-Work/assets/32954048/8deeeb38-3130-4aba-9256-913dabd44a10">
 
 - ヒント
   - アイテムを獲得した回数を保存する変数を作る
 
 ### 3-2: UIでゴールまでの距離を表示しよう
-<img width="568" alt="スクリーンショット 2023-06-24 16 33 06" src="https://github.com/KeichiMizutani/LiT-Unity-Corse-Check-Work/assets/32954048/8e4fff86-2c37-4c0b-83fd-ab0d892ebe76">
+<img width="500" alt="スクリーンショット 2023-06-24 16 33 06" src="https://github.com/KeichiMizutani/LiT-Unity-Corse-Check-Work/assets/32954048/8e4fff86-2c37-4c0b-83fd-ab0d892ebe76">
 
 
 
